@@ -1,0 +1,57 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Build files
+dist/
+build/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# VS specific
+.vscode/
+*.code-workspace
+
+# Compiled files
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+*.log
+
+# Linux-specific
+*.pid
+*.seed
+
+# Other common ignores
+coverage/
+*.test.js
+*.spec.js
